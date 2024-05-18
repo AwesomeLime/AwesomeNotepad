@@ -3,7 +3,7 @@
 # RU | Простой, лёгкий и функциональный блокнот!
 # EN | Simple, lightweight and functional notepad!
 
-##RU
+## RU
 - ### Системные требования
 	- #### .NET Framework 4.7.2+
 - ### Установка
